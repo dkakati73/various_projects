@@ -1,0 +1,6 @@
+
+read the entry http://dbader.org/blog/python-ctypes-tutorial
+
+do 'make' in the directory
+run the python3 file to get time comparison of adding up the summation of million
+numbers in C and python
